@@ -15,7 +15,7 @@ function LoginScreen() {
             {signIn?
          (<SignupScreen/>):
          <>
-         <h1>Unlimited films Tv programmes and more.</h1>
+         <h1>Unlimited films Tv programmes and much more.</h1>
          <h2>Watch anywhere.Cancel at anytime</h2>
          <h3>Ready to watch?Enter your Email to create or restart your membership</h3>
          <div className='LoginScreen_input'>
